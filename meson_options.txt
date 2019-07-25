@@ -1,0 +1,22 @@
+###################################################################################
+#                                                                                 #
+# NAME: meson_options.txt                                                         #
+#                                                                                 #
+# AUTHOR: Michael Brockus.                                                        #
+#                                                                                 #
+# CONTACT: <mailto:michael@squidfarts.com>                                        #
+#                                                                                 #
+# NOTICES:                                                                        #
+#                                                                                 #
+# License: MIT                                                                    #
+#                                                                                 #
+###################################################################################
+
+
+
+##
+#
+# Meson: Target options feature.
+#
+##
+option('with_tests'  , type : 'feature', value : 'disabled', description: 'Enable Unity for unit testing.')
