@@ -1,4 +1,4 @@
-# ***C Project***
+# ***M-Calc***
 
 #### **Status**
 
@@ -9,29 +9,15 @@
 ## **Description**
 ==========================
 
-Banana bread.  A project template for a new C based project using Meson build system.
+C math calculator.
 
 
 ## **About**
 ==========================
 
-***C Project*** is a project template that was designed to use Meson out of the box, 
-a suitable tempallate for your programming needs.  This was designed,  battle tested 
-and deployed from a multi language codebase where the current languages are C, C++,
-Dlang, Kotlin and Python. 
-
-I will only design templates that follow with what I am trying to accomplish which is 
-to build a healthy ecosystem where programming languages can work together 
-without pulling apart or blowing up my codebase, I also find it easy to do my classes 
-by simply copying a new template in place and start working on my challenge or to 
-follow along with an example program and to use when I would like to try out some 
-new experiment.
-
-The design of each template is meant to be a live demonstration of a will structured
-GitHub project and something that can be reference so I don’t have to copy and paste
-on other platforms such as Reddit, Stack Overflow, Linkedin and The D forum.  All seems 
-good however nothing is truly safe from hackers and bug free so best practices for 
-security will be incorporated as part of the work flow while developing the project.
+***m-Calc*** is a C calculator that takes an arithmetic operator +, -, *, /, % and two 
+operands from the user and performs the calculation on the two operands depending 
+upon the operator entered by the user.
 
 
 ## **Features**
@@ -58,7 +44,7 @@ To install this project the simplest way is to grab it off github with
 this command the Github command looks something like this:
 
 ```console
-git clone https://github.com/squidfarts/c-project.git
+git clone https://github.com/squidfarts/m-calc.git
 ```
 You can also download it as a zip if you prefer.
 
